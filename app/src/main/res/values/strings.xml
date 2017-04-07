@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AttendanceCalculator</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="present_hint">Present</string>
+    <string name="total_hint">Total</string>
+    <string name="percentage_hint">Percentage</string>
+
+
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+</resources>

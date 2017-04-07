@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "290140441788",
+    "firebase_url": "https://bunk-manager-1198a.firebaseio.com",
+    "project_id": "bunk-manager-1198a",
+    "storage_bucket": "bunk-manager-1198a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290140441788:android:8789d4ffdcf70c79",
+        "android_client_info": {
+          "package_name": "com.dhawal.attendancecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290140441788-2dskq76emh14u9s4a943j5q9enoj38tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdT-12OxshIrQ6JS5cEggKx9yVX07PNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
